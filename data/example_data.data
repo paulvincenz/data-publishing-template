@@ -1,0 +1,8 @@
+---
+category: data
+filename: example_data.csv
+weight: 1
+title: dataset_template
+description: made-up data for demonstration purposes only
+type: text/csv
+---
